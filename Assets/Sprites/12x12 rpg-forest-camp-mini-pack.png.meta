@@ -1,0 +1,602 @@
+fileFormatVersion: 2
+guid: b5d39f417f2074e7c83bdc979b0c24ab
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984ae74fe64046e680f315a802bc975
+      internalID: -68149284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 108
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15463899d0c304f1cbdc681f66e22ba3
+      internalID: 975413402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 121
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 18, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe4b02e505c3419cb3c375c95214898
+      internalID: -692545873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 87
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae3b763f50f5488d9a9628efd99f519
+      internalID: -444373087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44123fed802ef4861961e2deae61135f
+      internalID: -2059045293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 75
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8342da5d8d20a44639afb30efcc15cf6
+      internalID: -84725448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c79784f5d914029b8a8b0d3de307ff
+      internalID: -748090841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b259ba2172ba94404aeb3cabcf801786
+      internalID: -494587616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565183ccb98154f33bdad88d87f83d86
+      internalID: -333426507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 75
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e246913a1cc47f5b965c2b0392a8b1
+      internalID: -246198979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_10
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2cb86112d4649c3b823c8d85ddf45e
+      internalID: 1414263874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 73
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f93a643cda04842901001806c4a07d
+      internalID: 292800367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_12
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 72
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a6ded5f87e489486aa917dee90fd3
+      internalID: 1692966450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ecd4c910de24b6b9db969d0252459a
+      internalID: 1705602177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebb14ff497ba42d29e18e759a7f32f5
+      internalID: -1443043697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab735ed496364828b14bbf5aee8b895
+      internalID: -1507016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_16
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 97
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e649461a93243708dd072eaf60f6a5
+      internalID: 195735332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0331dda8584a4c9095c13ca9389134f
+      internalID: 1036680378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 71
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 2.0329387, y: 0.5627117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2e24a29ddec4e6f8dab30b44a5751d
+      internalID: -65734735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 72
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 2.0329387, y: 0.5627117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c954ad04f4d1f4dea83f03fb5a27f3fe
+      internalID: -877690420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12x12 rpg-forest-camp-mini-pack_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 85
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 2.0329387, y: 0.5627117}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b9996604f14b6c92e0b06f134afb9
+      internalID: 817150774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      12x12 rpg-forest-camp-mini-pack_0: -68149284
+      12x12 rpg-forest-camp-mini-pack_1: 975413402
+      12x12 rpg-forest-camp-mini-pack_10: 1414263874
+      12x12 rpg-forest-camp-mini-pack_11: 292800367
+      12x12 rpg-forest-camp-mini-pack_12: 1692966450
+      12x12 rpg-forest-camp-mini-pack_13: 1705602177
+      12x12 rpg-forest-camp-mini-pack_14: -1443043697
+      12x12 rpg-forest-camp-mini-pack_15: -1507016344
+      12x12 rpg-forest-camp-mini-pack_16: 195735332
+      12x12 rpg-forest-camp-mini-pack_17: 1036680378
+      12x12 rpg-forest-camp-mini-pack_18: -65734735
+      12x12 rpg-forest-camp-mini-pack_19: -877690420
+      12x12 rpg-forest-camp-mini-pack_2: -692545873
+      12x12 rpg-forest-camp-mini-pack_20: 817150774
+      12x12 rpg-forest-camp-mini-pack_3: -444373087
+      12x12 rpg-forest-camp-mini-pack_4: -2059045293
+      12x12 rpg-forest-camp-mini-pack_5: -84725448
+      12x12 rpg-forest-camp-mini-pack_6: -748090841
+      12x12 rpg-forest-camp-mini-pack_7: -494587616
+      12x12 rpg-forest-camp-mini-pack_8: -333426507
+      12x12 rpg-forest-camp-mini-pack_9: -246198979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,7 +2,7 @@
 
 A two-player local multiplayer game inspired by Bomberman, developed in Unity with C#.
 
-## 🎮 About the Game
+#About the Game
 
 Humans are coming to destroy your home and turn your jungle into concrete! Fight back, destroy their bricks, and defend your land.
 
@@ -27,14 +27,14 @@ Strategically place bombs to eliminate your opponent while avoiding explosions. 
 - **Blast Radius:** Increases bomb explosion range.
 - **Extra Bomb:** Increases the number of bombs you can place at once.
 
-## 🛠️ Built With
+Built With
 
 - Unity
 - C#
 - Unity Tilemap
 - Unity UI / TextMeshPro
 
-## 🎧 Features
+Features
 
 - Local two-player gameplay
 - Bomb placement and directional explosions
@@ -46,12 +46,12 @@ Strategically place bombs to eliminate your opponent while avoiding explosions. 
 - Pause and Game Over screens
 - Sound effects and background music
 
-## 🚀 Platforms
+Platforms
 
 - WebGL
 - macOS
 
-## 👨‍💻 Author
+Author
 
 Edgar Salcedo
 

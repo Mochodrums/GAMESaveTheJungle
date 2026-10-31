@@ -2,7 +2,7 @@
 
 A two-player local multiplayer game inspired by Bomberman, developed in Unity with C#.
 
-#About the Game
+About the Game
 
 Humans are coming to destroy your home and turn your jungle into concrete! Fight back, destroy their bricks, and defend your land.
 
